@@ -1,4 +1,6 @@
 # Neumorphic Design Code Snippets
+<img width="960" alt="Neumorphism" src="https://user-images.githubusercontent.com/53931942/123142224-d2098200-d476-11eb-8c04-f99d0ac6d8b4.png">  
+
 ## 1. Neumorphic Cards  
 <img width="960" alt="Neumorphic Cards" src="https://user-images.githubusercontent.com/53931942/123141766-5c9db180-d476-11eb-997c-37e8c87ea835.png">  
 
