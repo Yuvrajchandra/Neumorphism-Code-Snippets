@@ -14,4 +14,4 @@
 <img width="960" alt="Neumorphic Text and Shapes" src="https://user-images.githubusercontent.com/53931942/123142013-a2f31080-d476-11eb-8a7b-e0747a3dc222.png">  
 
 ## 5. Neumorphic Buttons
-<img width="577" alt="Neumorphic Buttons" src="https://user-images.githubusercontent.com/53931942/123142115-b7cfa400-d476-11eb-9d4a-06ce0e87f6f1.png">  
+<img width="960" alt="Neumorphic Buttons" src="https://user-images.githubusercontent.com/53931942/123142115-b7cfa400-d476-11eb-9d4a-06ce0e87f6f1.png">  
