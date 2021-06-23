@@ -1,0 +1,27 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --nColor: #6ec7ff;
+  --brShadow: -6px 6px 10px rgba(0,0,0,0.5);
+  --tlShadow: 6px -6px 10px rgba(255,255,255,0.5);
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: var(--nColor);
+}
+
+.n-text {
+  color: var(--nColor);
+  text-shadow: var(--brShadow), var(--tlShadow);
+  font-size: 6em;
+  font-weight: bold;
+}

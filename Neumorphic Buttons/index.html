@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Neumorphic Buttons</title>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="btn-holder">
+        <p class="intro-text">Press the buttons</p>
+        <button id="play-pause" onclick="changeStyle('play-pause')" aria-label="Play/Pause Button." class="btn neumorphic">
+            <span class="icon">
+                <i id="play" class="material-icon">
+                    play_arrow
+                </i>
+
+                <i id="pause" class="material-icon">
+                    pause
+                </i>
+            </span>
+        </button>
+
+        <button id="shuffle-btn" onclick="changeStyle('shuffle-btn')" aria-label="Shuffle Button." class="btn neumorphic">
+            <i id="shuffle" class="material-icon">
+                shuffle
+            </i>
+        </button>
+    </div>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
